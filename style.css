@@ -20,13 +20,13 @@
     top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-size: 110px;
+    font-size: 100px;
     -webkit-text-stroke: 1px rgb(255, 64, 0);
     color: transparent;
     background-image: linear-gradient(rgb(255, 64, 0), rgb(255, 64, 0));
     background-repeat: no-repeat;
     -webkit-background-clip: text;
-    background-position: -600px 0;
+    background-position: -580px 0;
     animation: backcolor 3s linear infinite alternate;
     text-align: center;
     font-family: "Calibri";
