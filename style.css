@@ -112,14 +112,14 @@
     /* title effect */
     .title{
       left: 55%; 
-      font-size: 75px;
+      font-size: 70px;
     }
   
     /* center text */
     .content{
       width: 110%;
       position: absolute;
-      top: 65%;
+      top: 70%;
       transform: translateY(-50%);
       text-align: center;
       color: #fff;
